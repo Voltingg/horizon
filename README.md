@@ -1,6 +1,7 @@
 # Horizon
 
-Launcher pour BlablaFantasy.
+Launcher alternatif BlablaFantasy/Retro Blablaland.
+Attention: Ce projet est indépendant. Il n'est ni affilié à BlablaFantasy, ni à Blablaland/Niveau99, ni à quelconque rétro.
 
 ## Installer
 
