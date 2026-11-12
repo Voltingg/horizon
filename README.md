@@ -15,7 +15,7 @@ Horizon se met ensuite à jour tout seul : à chaque lancement, il vérifie la d
 Au premier lancement de l'installeur, Windows SmartScreen peut afficher un écran bleu « Windows a protégé votre ordinateur ». Pour continuer :
 
 1. Cliquer sur **Informations complémentaires** (sous le texte).
-2. Vérifier que l'éditeur et le nom du fichier sont bien ceux d'Horizon (`Horizon-Setup.exe`).
+2. Vérifier que l'application s'appelle bien `Horizon-Setup.exe` (l'éditeur affiché est « Éditeur inconnu » : c'est normal, voir plus bas).
 3. Cliquer sur **Exécuter quand même**.
 
 Si le navigateur bloque le téléchargement (Edge : « n'est pas fréquemment téléchargé »), ouvrir le menu `...` du téléchargement, puis **Conserver**, puis **Afficher plus** et **Conserver quand même**.
